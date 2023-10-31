@@ -1,0 +1,22 @@
+---
+title: "Samuel Bharti"
+about:
+  template: jolla
+  image: "assets/samuelbharti.jpeg"
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/samuelbharti
+    - icon: linkedin
+      text: linkedin
+      href: https://www.linkedin.com/in/samuelbharti/
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/samuelbharti
+---
+
+I am a Ph.D. student at the University of Alabama in Birmingham in the Department of Biomedical Engineering.
+
+My research interests are in developing diagnostics and treatment applications in using Systems Biology and Clinomics. My current projects involves developing multi-omics integration tools and models for treatment and diagnostic of Neurofibromatosis Type 1 and it's associated cancers.
+
+Please see my [CV](%22files/CV_SamuelBharti_Oct2023.pdf%22) for details of my academic work.
