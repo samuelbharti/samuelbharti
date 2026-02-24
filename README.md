@@ -2,7 +2,7 @@
 
 I’m a product-minded computational biologist. I like building tools that make omics data easier to explore, trust, and share, not just running one-off analyses.
 
-Most of my work is R/Shiny + genomics (WES, bulk RNA-seq, sn/scRNA-seq) with modular design and reproducible workflows.
+My work is R/Shiny + Agentic Systems + genomics (WES, bulk RNA-seq, sn/scRNA-seq) with modular design and reproducible workflows.
 
 #### Projects (public + private + in progress)
 - **MOLV (Multi-Omics Locus Viewer)** — locus-first multi-omics viewer (Shiny app + R package) for Human Genetics teams at Genentech (private)
