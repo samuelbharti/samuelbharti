@@ -6,8 +6,8 @@ My work is R/Shiny + Agentic Systems + genomics (WES, bulk RNA-seq, sn/scRNA-seq
 
 #### Projects (public + private + in progress)
 - **MOLV (Multi-Omics Locus Viewer)** — locus-first multi-omics viewer (Shiny app + R package) for Human Genetics teams at Genentech (private)
-- **scRNA-seq Analysis Integration App (in dev)** — nf-core outputs + Seurat + pseudobulk + CellChat in one place (in progress)
-- **Pediatric Thyroid Cancer Explorer** — interactive WES/bulk RNA exploration (in progress)
+- **scRNA-seq Analysis Integration App (in dev)** — nf-core outputs + Seurat + pseudobulk + CellChat in one place (unreleased)
+- **Pediatric Thyroid Cancer Explorer** — interactive WES/bulk RNA exploration (unreleased)
 
 - **SEAS** — clinical feature enrichment + prediction  
   App: https://aimed-lab.shinyapps.io/SEAS/  
