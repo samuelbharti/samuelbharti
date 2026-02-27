@@ -1,7 +1,6 @@
 ### Hi, I’m Sam 👋
 
-I’m a product-minded computational biologist. I like building tools that make omics data easier to explore, trust, and share, not just running one-off analyses.
-
+I’m a product-minded computational biologist. I like building tools that make omics data easier to explore, trust, and share. 
 My work is R/Shiny + Agentic Systems + genomics (WES, bulk RNA-seq, sn/scRNA-seq) with modular design and reproducible workflows.
 
 #### Projects (public + private + in progress)
