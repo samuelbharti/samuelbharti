@@ -8,7 +8,7 @@ My work is R/Shiny + Agentic Systems + genomics (WES, bulk RNA-seq, sn/scRNA-seq
 - Instructor at Carpentry Workshop on "Bash Shell, Git, Text Editor, and Python" at UAB. https://u-bds.github.io/2024-03-18-uab/
 - Instructor at Carpentry Workshop on "Bash Shell, Git, Text Editor, and R" at UAB. https://u-bds.github.io/2023-12-14-uab/
 - Helper at Carpentry Style Workshop on "Bulk RNA-Seq" at UAB. https://u-bds.github.io/2024-07-09-uab/
-- Flash Talk on AWS EC2. https://mentorchains.github.io/STEM-AWAY_AWS_BI_2021/
+- Flash Talk on R Shiny Bioinformatics app on AWS EC2. https://mentorchains.github.io/STEM-AWAY_AWS_BI_2021/
 
 #### Projects (public + private + in progress)
 - **MOLV (Multi-Omics Locus Viewer)** — locus-first multi-omics viewer (Shiny app + R package) for Human Genetics teams at Genentech (private)
