@@ -16,7 +16,7 @@ My work is R/Shiny + Agentic Systems + genomics (WES, bulk RNA-seq, sn/scRNA-seq
 - **MOLV (Multi-Omics Locus Viewer)** — locus-first multi-omics viewer (Shiny app + R package) for Human Genetics teams at Genentech (private)
 - **scRNA-seq Analysis Integration App (in dev)** — nf-core outputs + Seurat + pseudobulk + CellChat in one place (unreleased)
 
-- **Pediatric Thyroid Cancer Explorer** — interactive WES/bulk RNA exploration
+- **Pediatric Thyroid Cancer Explorer** — interactive WES/bulk RNA exploration  
   Repo: https://github.com/uab-cgds-worthey/ptc-explorer
 
 - **SEAS** — clinical feature enrichment + prediction  
