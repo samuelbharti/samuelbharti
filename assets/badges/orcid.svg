@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="215" height="20" role="img" aria-label="ORCID: 0000-0003-4190-7058">
+<title>ORCID: 0000-0003-4190-7058</title>
+<g shape-rendering="crispEdges">
+<rect width="70" height="20" fill="#3b3f4a"/>
+<rect x="70" width="145" height="20" fill="#a6ce39"/>
+</g>
+<g font-family="Verdana,DejaVu Sans,Geneva,sans-serif" font-size="11">
+<g transform="translate(9,3)"><circle cx="7" cy="7" r="6.4" fill="#fff"/><text x="7" y="10.6" font-size="8.5" font-weight="bold" text-anchor="middle" fill="#8bb02f">iD</text></g>
+<text x="44.8" y="14" text-anchor="middle" fill="#fff">ORCID</text>
+<text x="142.5" y="14" text-anchor="middle" fill="#1b2d00">0000-0003-4190-7058</text>
+</g>
+</svg>

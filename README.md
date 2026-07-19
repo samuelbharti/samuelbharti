@@ -3,10 +3,10 @@
 I’m a product-minded computational biologist. I like building tools that make omics data easier to explore, trust, and share.
 I build interactive apps and AI-assisted tools for genomics and multi-omics integration, spanning bulk, single-cell, and Perturb-seq RNA-seq through whole-exome data, with a focus on modular design and reproducible workflows.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-samuelbharti.com-1f6feb?style=flat-square&logo=googlechrome&logoColor=white)](https://samuelbharti.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-samuelbharti-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelbharti/)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--4190--7058-a6ce39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4190-7058)
-[![Email](https://img.shields.io/badge/Email-samuelbharti.io%40gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white)](mailto:samuelbharti.io@gmail.com)
+[![Portfolio](assets/badges/portfolio.svg)](https://samuelbharti.com)
+[![LinkedIn](assets/badges/linkedin.svg)](https://www.linkedin.com/in/samuelbharti/)
+[![ORCID](assets/badges/orcid.svg)](https://orcid.org/0000-0003-4190-7058)
+[![Email](assets/badges/email.svg)](mailto:samuelbharti.io@gmail.com)
 
 #### Now
 - **Software Engineering Intern, Shiny team @ [Posit](https://posit.co/)** (Summer 2026), building Shiny apps for life sciences.
