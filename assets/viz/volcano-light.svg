@@ -33,7 +33,7 @@
 <circle cx="806.41" cy="408" r="7.12" fill="#0E7C86" opacity="0.4"/>
 <circle cx="419.08" cy="201.26" r="3.93" fill="#2444C8" opacity="0.4"/>
 <circle cx="645.27" cy="202.17" r="3.56" fill="#7C5CBF" opacity="0.4"/>
-<circle cx="362.62" cy="213.91" r="4.25" fill="#2444C8" opacity="0.4"/>
+<circle cx="362.62" cy="175.26" r="4.25" fill="#2444C8" opacity="0.95"/>
 <circle cx="490.35" cy="170.03" r="3.69" fill="#1F9A56" opacity="0.4"/>
 <circle cx="412.36" cy="355.54" r="3.71" fill="#2444C8" opacity="0.4"/>
 <circle cx="663.55" cy="408" r="3.5" fill="#7C5CBF" opacity="0.4"/>
@@ -46,6 +46,8 @@
 <text x="107.61" y="116.18" font-size="10" fill="#CE2A6E">genescout</text>
 <line x1="262.27" y1="131.48" x2="262.27" y2="128.48" stroke="#8A8494" stroke-width="0.6"/>
 <text x="270.27" y="125.48" font-size="10" fill="#D97706">plotomics</text>
+<line x1="362.62" y1="171.26" x2="362.62" y2="168.26" stroke="#8A8494" stroke-width="0.6"/>
+<text x="370.62" y="165.26" font-size="10" fill="#2444C8">recount-explorer</text>
 <line x1="408.12" y1="143.08" x2="408.12" y2="140.08" stroke="#8A8494" stroke-width="0.6"/>
 <text x="416.12" y="137.08" font-size="10" fill="#2444C8">plotomics-live</text>
 <line x1="408.59" y1="128.79" x2="408.59" y2="125.79" stroke="#8A8494" stroke-width="0.6"/>

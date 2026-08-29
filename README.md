@@ -20,12 +20,13 @@ I make omics data easier to explore, trust, and share.
 
 | Project | What it is |
 | --- | --- |
+| [tahoe-explorer](https://github.com/samuelbharti/tahoe-explorer) | Shiny app for exploring Tahoe-100M single-cell perturbation metadata and building reproducible subsets. |
+| [recount-explorer](https://github.com/samuelbharti/recount-explorer) | Shiny app to browse, analyze, and export recount3 RNA-seq studies: 18,998 datasets, quality checks, and PCA. |
+| [biobouncer](https://github.com/samuelbharti/biobouncer) | A gate for biological inputs: validates gene symbols, ontology terms, variant formats, and database identifiers. [Docs](https://www.samuelbharti.com/biobouncer/) |
+| [variant-reviewer](https://github.com/samuelbharti/variant-reviewer) | Shiny app for reviewing a gene or variant across ClinVar, gnomAD, Ensembl, Open Targets, and more. |
+| [bioclients](https://github.com/samuelbharti/bioclients) + [biohttp](https://github.com/samuelbharti/biohttp) | R clients for 29 biological databases on a normalized HTTP transport with retries, throttling, and circuit breaking. |
 | [plotomics](https://github.com/samuelbharti/plotomics) | GPU-accelerated bioinformatics visualization for R, Python, and the web. Seventeen components, one TypeScript core. |
 | [genescout](https://github.com/samuelbharti/genescout) | Turns a candidate gene list and disease context into a ranked, evidence-supported review. Deterministic keyless core, optional Claude agent layer. Built for the [Claude science hackathon](https://www.samuelbharti.com/claude-science-hackathon.html). |
-| [biobouncer](https://github.com/samuelbharti/biobouncer) | A gate for biological inputs: validates gene symbols, ontology terms, variant formats, and database identifiers. [Docs](https://www.samuelbharti.com/biobouncer/) |
-| [bioclients](https://github.com/samuelbharti/bioclients) + [biohttp](https://github.com/samuelbharti/biohttp) | R clients for 29 biological databases on a normalized HTTP transport with retries, throttling, and circuit breaking. |
-| [variant-reviewer](https://github.com/samuelbharti/variant-reviewer) | Shiny app for reviewing a gene or variant across ClinVar, gnomAD, Ensembl, Open Targets, and more. |
-| [tahoe-explorer](https://github.com/samuelbharti/tahoe-explorer) | Shiny app for exploring Tahoe-100M single-cell perturbation metadata and building reproducible subsets. |
 
 More on my site: [samuelbharti.com](https://samuelbharti.com)
 
@@ -46,7 +47,6 @@ More on my site: [samuelbharti.com](https://samuelbharti.com)
 **R / Shiny**
 
 - [plotomics-live](https://github.com/samuelbharti/plotomics-live): twenty-six biological-data visualizations, each rendered as interactive WebGL and classic ggplot2 side by side.
-- [recount-explorer](https://github.com/samuelbharti/recount-explorer): browse, analyze, and export 18,998 recount3 RNA-seq studies.
 - [gene-list-builder](https://github.com/samuelbharti/gene-list-builder): ranked multi-source gene lists for a disease, with transparent scoring.
 - [draft-reviewer](https://github.com/samuelbharti/draft-reviewer): local Shiny app for reviewing Markdown drafts with paragraph-anchored comments.
 - [peacock](https://github.com/samuelbharti/peacock): R package for project initialization and workflow management. [Docs](https://www.samuelbharti.com/peacock/)

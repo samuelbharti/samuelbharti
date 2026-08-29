@@ -67,15 +67,15 @@
 <rect x="742.76" y="338" width="56.28" height="10" rx="2" fill="#5C77E8" opacity="0.35"/>
 <rect x="802.04" y="338" width="52.46" height="10" rx="2" fill="#5C77E8" opacity="1"/>
 <text x="150" y="346.5" font-size="10" text-anchor="end">tahoe-explorer</text>
-<line x1="162.82" y1="361" x2="623.61" y2="361" stroke="#5C77E8" stroke-width="1" opacity="0.5"/>
-<rect x="163.32" y="356" width="54.37" height="10" rx="2" fill="#5C77E8" opacity="0.65"/>
-<rect x="220.69" y="356" width="56.28" height="10" rx="2" fill="#5C77E8" opacity="0.65"/>
-<rect x="396.63" y="356" width="56.28" height="10" rx="2" fill="#5C77E8" opacity="0.65"/>
-<rect x="568.74" y="356" width="54.37" height="10" rx="2" fill="#5C77E8" opacity="1"/>
-<text x="150" y="364.5" font-size="10" text-anchor="end">ptc-explorer</text>
-<line x1="801.54" y1="379" x2="855" y2="379" stroke="#5C77E8" stroke-width="1" opacity="0.5"/>
-<rect x="802.04" y="374" width="52.46" height="10" rx="2" fill="#5C77E8" opacity="1"/>
-<text x="150" y="382.5" font-size="10" text-anchor="end">recount-explorer</text>
+<line x1="801.54" y1="361" x2="855" y2="361" stroke="#5C77E8" stroke-width="1" opacity="0.5"/>
+<rect x="802.04" y="356" width="52.46" height="10" rx="2" fill="#5C77E8" opacity="1"/>
+<text x="150" y="364.5" font-size="10" text-anchor="end">recount-explorer</text>
+<line x1="162.82" y1="379" x2="623.61" y2="379" stroke="#5C77E8" stroke-width="1" opacity="0.5"/>
+<rect x="163.32" y="374" width="54.37" height="10" rx="2" fill="#5C77E8" opacity="0.65"/>
+<rect x="220.69" y="374" width="56.28" height="10" rx="2" fill="#5C77E8" opacity="0.65"/>
+<rect x="396.63" y="374" width="56.28" height="10" rx="2" fill="#5C77E8" opacity="0.65"/>
+<rect x="568.74" y="374" width="54.37" height="10" rx="2" fill="#5C77E8" opacity="1"/>
+<text x="150" y="382.5" font-size="10" text-anchor="end">ptc-explorer</text>
 <line x1="801.54" y1="397" x2="855" y2="397" stroke="#5C77E8" stroke-width="1" opacity="0.5"/>
 <rect x="802.04" y="392" width="52.46" height="10" rx="2" fill="#5C77E8" opacity="1"/>
 <text x="150" y="400.5" font-size="10" text-anchor="end">draft-reviewer</text>

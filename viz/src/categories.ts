@@ -55,7 +55,7 @@ export const SPOTLIGHT: Record<string, number> = {
   "variant-reviewer": 3,
   "tahoe-explorer": 3,
   "plotomics-live": 3,
-  "recount-explorer": 2,
+  "recount-explorer": 3,
   "draft-reviewer": 2,
   "gene-list-builder": 2,
   peacock: 2,
