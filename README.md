@@ -2,13 +2,6 @@
 
 I work on cancer genomics and build whatever the science needs: apps, pipelines, agents, sometimes a faster R.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/viz/circos-dark.svg">
-  <img alt="My GitHub portfolio rendered as a circos plot: arcs are featured projects grouped by category, the outer ring shows monthly commit heat, and ribbons connect projects sharing a language" src="assets/viz/circos-light.svg" width="100%">
-</picture>
-
-<sub>My portfolio as a circos plot, redrawn nightly from live GitHub data by [my own generator](viz/).</sub>
-
 #### Now
 
 - **Software Engineering Intern, Shiny team @ [Posit](https://posit.co/)** (Summer 2026), building Shiny apps for life sciences.
@@ -55,7 +48,7 @@ More on my site: [samuelbharti.com](https://samuelbharti.com)
 
 **Genomics apps & analysis**
 
-- **MOLV (Multi-Omics Locus Viewer)**: locus-first Shiny app + R package built at Genentech to explore 11,000+ GWAS, eQTL, pQTL, single-cell, and ATAC-seq datasets in Alzheimer's disease (private).
+- **MOLV (Multi-Omics Locus Viewer)**: locus-first Shiny app + R package built at Genentech to explore 11,000+ GWAS, eQTL, pQTL, single-cell, and ATAC-seq datasets in Alzheimer’s disease (private).
 - **RAPTOR**: agentic system that extracts phenotypes, genes, diseases, and ontology-linked concepts from unstructured patient records (unreleased).
 - **scRNA-seq Analysis Integration App**: nf-core outputs + Seurat + pseudobulk + CellChat in one place (in dev).
 - [Pediatric Thyroid Cancer Explorer](https://github.com/uab-cgds-worthey/ptc-explorer): interactive WES and bulk RNA exploration.
