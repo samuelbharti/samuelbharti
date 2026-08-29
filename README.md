@@ -1,6 +1,6 @@
 ### Hi, I’m Sam 👋
 
-I make omics data easier to explore, trust, and share.
+I work on cancer genomics and build whatever the science needs: apps, pipelines, agents, sometimes a faster R.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/viz/circos-dark.svg">
