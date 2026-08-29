@@ -1,11 +1,6 @@
 ### Hi, I’m Sam 👋
 
-I’m a product-minded computational biologist. I build tools that make omics data easier to explore, trust, and share: interactive apps and AI-assisted tools for genomics and multi-omics integration, with a focus on modular design and reproducible workflows.
-
-[![Portfolio](assets/badges/portfolio.svg)](https://samuelbharti.com)
-[![LinkedIn](assets/badges/linkedin.svg)](https://www.linkedin.com/in/samuelbharti/)
-[![ORCID](assets/badges/orcid.svg)](https://orcid.org/0000-0003-4190-7058)
-[![Email](assets/badges/email.svg)](mailto:samuelbharti.io@gmail.com)
+I make omics data easier to explore, trust, and share.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/viz/circos-dark.svg">
