@@ -7,7 +7,6 @@ I work on cancer genomics and build whatever the science needs: apps, pipelines,
 - **Software Engineering Intern, Shiny team @ [Posit](https://posit.co/)** (Summer 2026), building Shiny apps for life sciences.
 - **Doctoral Researcher in Bioinformatics @ UAB**, working on NF1 and associated cancers.
 - Previously: Human Genetics (gRED) intern @ Genentech (Summer 2025).
-- 8 peer-reviewed publications in computational biology and genomics ([ORCID](https://orcid.org/0000-0003-4190-7058)).
 
 #### Featured
 
