@@ -26,8 +26,8 @@ I’m a product-minded computational biologist. I build tools that make omics da
 | Project | What it is |
 | --- | --- |
 | [plotomics](https://github.com/samuelbharti/plotomics) | GPU-accelerated bioinformatics visualization for R, Python, and the web. Seventeen components, one TypeScript core. |
-| [genescout](https://github.com/samuelbharti/genescout) | Turns a candidate gene list and disease context into a ranked, evidence-supported review. Deterministic keyless core, optional Claude agent layer. |
-| [biobouncer](https://github.com/samuelbharti/biobouncer) | A gate for biological inputs: validates gene symbols, ontology terms, variant formats, and database identifiers. |
+| [genescout](https://github.com/samuelbharti/genescout) | Turns a candidate gene list and disease context into a ranked, evidence-supported review. Deterministic keyless core, optional Claude agent layer. Built for the [Claude science hackathon](https://www.samuelbharti.com/claude-science-hackathon.html). |
+| [biobouncer](https://github.com/samuelbharti/biobouncer) | A gate for biological inputs: validates gene symbols, ontology terms, variant formats, and database identifiers. [Docs](https://www.samuelbharti.com/biobouncer/) |
 | [bioclients](https://github.com/samuelbharti/bioclients) + [biohttp](https://github.com/samuelbharti/biohttp) | R clients for 29 biological databases on a normalized HTTP transport with retries, throttling, and circuit breaking. |
 | [variant-reviewer](https://github.com/samuelbharti/variant-reviewer) | Shiny app for reviewing a gene or variant across ClinVar, gnomAD, Ensembl, Open Targets, and more. |
 | [tahoe-explorer](https://github.com/samuelbharti/tahoe-explorer) | Shiny app for exploring Tahoe-100M single-cell perturbation metadata and building reproducible subsets. |
@@ -40,7 +40,7 @@ More on my site: [samuelbharti.com](https://samuelbharti.com)
 - **Languages** R · Python · Bash · SQL · JavaScript/TypeScript
 - **Apps & viz** Shiny · Quarto · React · Node.js · WebGL · Leaflet
 - **Genomics** Seurat · nf-core · bulk/sc/Perturb-seq · WES · ATAC-seq · eQTL/GWAS
-- **Agentic AI** Claude API · MCP · LangChain · Google ADK · tool calling
+- **Agentic AI** Claude API · OpenAI APIs · MCP · LangChain · Google ADK · tool calling
 - **Infra** Docker · AWS · GCP · SLURM/HPC · Git
 
 </details>
@@ -62,6 +62,7 @@ More on my site: [samuelbharti.com](https://samuelbharti.com)
 
 - **MOLV (Multi-Omics Locus Viewer)**: locus-first Shiny app + R package built at Genentech to explore 11,000+ GWAS, eQTL, pQTL, single-cell, and ATAC-seq datasets in Alzheimer's disease (private).
 - **RAPTOR**: agentic system that extracts phenotypes, genes, diseases, and ontology-linked concepts from unstructured patient records (unreleased).
+- **scRNA-seq Analysis Integration App**: nf-core outputs + Seurat + pseudobulk + CellChat in one place (in dev).
 - [Pediatric Thyroid Cancer Explorer](https://github.com/uab-cgds-worthey/ptc-explorer): interactive WES and bulk RNA exploration.
 - [SEAS](https://aimed-lab.shinyapps.io/SEAS/): clinical feature enrichment and prediction. [Docs](https://aimed-lab.github.io/SEAS/)
 
