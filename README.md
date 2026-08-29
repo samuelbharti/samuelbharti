@@ -2,13 +2,6 @@
 
 I work on cancer genomics and build whatever the science needs: apps, pipelines, agents, sometimes a faster R.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/viz/circos-dark.svg">
-  <img alt="My GitHub portfolio rendered as a circos plot: arcs are featured projects grouped by category, the outer ring shows monthly commit heat, and ribbons connect projects sharing a language" src="assets/viz/circos-light.svg" width="100%">
-</picture>
-
-<sub>My portfolio as a circos plot, redrawn nightly from live GitHub data by [my own generator](viz/).</sub>
-
 #### Now
 
 - **Software Engineering Intern, Shiny team @ [Posit](https://posit.co/)** (Summer 2026), building Shiny apps for life sciences.
