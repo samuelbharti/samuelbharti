@@ -1,7 +1,8 @@
-.Rproj.user
-.Rproj
-.Rhistory
-.RData
-.Ruserdata
 
-/.quarto/
+/.Rproj.user
+/.quarto
+.DS_Store
+
+viz/node_modules/
+viz/data/
+.env*
