@@ -9,4 +9,6 @@ I work on cancer genomics and build whatever the science needs: apps, pipelines,
 
 **[Shiny Bioinformatics Showcase](https://posit-shiny-showcase-bioinformatics.share.connect.posit.cloud/)**: a gallery of 10 apps and 5 packages I built, live on Posit Connect Cloud. [Source ![GitHub](assets/badges/github.svg)](https://github.com/posit-dev/shiny-showcase-bioinformatics)
 
+Learn more in my talk here: **[genomes-prompts-shiny](https://github.com/samuelbharti/genomes-prompts-shiny)**
+
 Projects, apps, packages, and teaching: [samuelbharti.com/work](https://samuelbharti.com/work)
